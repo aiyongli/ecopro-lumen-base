@@ -1,5 +1,6 @@
 {
     "name": "aiyongli/ecopro-lumen-base",
+    "description": "ecopro php lumen base library",
     "license": "MIT",
     "authors": [
         {
@@ -21,5 +22,7 @@
             "Ecopro\\Base\\Tests\\": "tests/"
         }
     },
-    "require": {}
+    "require": {
+        "ramsey/uuid": "^3.9"
+    }
 }
