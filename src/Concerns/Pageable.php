@@ -5,7 +5,7 @@ use Ecopro\Base\Helpers\InstanceHelper;
 use Illuminate\Http\Request;
 use Illuminate\Pagination\Paginator;
 
-trait Paginate
+trait Pageable
 {
     /**
      * 设置分页请求接收参数中的单页偏移量参数
