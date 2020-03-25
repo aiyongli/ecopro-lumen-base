@@ -1,0 +1,25 @@
+{
+    "name": "aiyongli/ecopro-lumen-base",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liaiyong",
+            "email": "aiyong.li@ecoprobio.cn"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ecopro\\Base\\": "src/"
+        },
+        "files" : [
+            "src/helpers.php",
+            "src/contant.php"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Ecopro\\Base\\Tests\\": "tests/"
+        }
+    },
+    "require": {}
+}
