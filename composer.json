@@ -13,7 +13,6 @@
             "Ecopro\\Base\\": "src/"
         },
         "files" : [
-            "src/helpers.php",
             "src/contant.php"
         ]
     },
@@ -23,6 +22,7 @@
         }
     },
     "require": {
+        "aiyongli/ecopro-lumen-helper": "^1.0",
         "ramsey/uuid": "^3.9"
     }
 }
