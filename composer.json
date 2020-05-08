@@ -25,6 +25,7 @@
         "aiyongli/ecopro-lumen-form": "^1.0",
         "aiyongli/ecopro-lumen-helper": "^1.0",
         "aiyongli/ecopro-lumen-http": "^1.0",
+        "aiyongli/ecopro-lumen-pipe": "^1.0",
         "aiyongli/ecopro-lumen-trim": "^1.0",
         "doctrine/annotations": "^1.10",
         "doctrine/cache": "^1.10",
