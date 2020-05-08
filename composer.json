@@ -22,7 +22,9 @@
         }
     },
     "require": {
+        "aiyongli/ecopro-lumen-form": "^1.0",
         "aiyongli/ecopro-lumen-helper": "^1.0",
+        "aiyongli/ecopro-lumen-http": "^1.0",
         "aiyongli/ecopro-lumen-trim": "^1.0",
         "ramsey/uuid": "^3.9"
     }
